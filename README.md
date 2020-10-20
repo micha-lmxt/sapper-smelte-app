@@ -207,3 +207,11 @@ Sapper is in early development, and may have the odd rough edge here and there. 
 
 
 # end sapper template readme 
+
+
+
+
+------------------------------------
+
+
+<a href="https://www.buymeacoff.ee/michalmxt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
