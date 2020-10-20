@@ -50,6 +50,12 @@ function getComponentCodes(name) {
 ```
 
 
+------------------------------------
+
+------------------------------------
+
+------------------------------------
+
 # sapper template readme 
 
 ## sapper-template
